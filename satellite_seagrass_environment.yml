@@ -1,0 +1,32 @@
+name: satellite_seagrass_environment
+channels:
+- defaults
+- conda-forge
+dependencies:
+- zipfile
+- fnmatch
+- os
+- xml.dom 
+- pandas
+- datetime
+- numpy
+- gc 
+- glob
+- tensorflow
+- keras
+- sys
+- h5py
+- osgeo 
+- subprocess
+- shutil
+- matplotlib
+- sklearn
+- geopandas
+- earthpy
+- spectral
+- rasterio
+- rioxarray
+- shapely
+- plotly
+- fiona
+- seaborn
