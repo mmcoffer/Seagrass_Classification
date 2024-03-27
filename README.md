@@ -1,0 +1,1 @@
+Code to classify PlanetScope data for seagrass classification. Refer to the "Download_instructions.docx" file for information on how to download the code from Github. Code and supporting documentation compiled by Dr. Rebecca Trinh and Dr. Megan Coffer.
